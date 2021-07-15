@@ -4,11 +4,11 @@
 
 | Name                                    | view         | 
 |-----------------------------------------|--------------|
-| [Free-code-camp](https://oss2019.github.io/SoI.html) | link|  
-| [Developer Roadmap](https://njackwinterofcode.github.io/) | Swag rewards|  
-| [Awesome](https://kwoc.kossiitkgp.org/) | Swag rewards|  |
-| [Free-programming-Books](https://opencodeiiita.github.io/) | Swag rewards|  
-| [30-days-of-js](http://mdg.iitr.ac.in/woc/2018/11/23/Winter-of-Code-18) | No |
-| [30-days-of-React](https://fossee.in/) | No |   
-| [Project-based-learning](https://dawoc.herokuapp.com/) | No  |    
-| [Awesome-geek-podcasts](https://winterofcode.com/) | Swag rewards|  
+| [Free-code-camp] | [link](https://github.com/freeCodeCamp/freeCodeCamp) |  
+| [Developer Roadmap] | [link](https://github.com/kamranahmedse/developer-roadmap)|  
+| [Awesome] | [link](https://github.com/sindresorhus/awesome)  |
+| [Free-programming-Books] | [link](https://github.com/EbookFoundation/free-programming-books)|  
+| [30-days-of-js] | [link](https://github.com/Asabeneh/30-Days-Of-JavaScript) |
+| [30-days-of-React] | [link](https://github.com/Asabeneh/30-Days-Of-React) |   
+| [Project-based-learning] | [link](https://github.com/tuvtran/project-based-learning)  |    
+| [Awesome-geek-podcasts] | [link](https://github.com/guipdutra/awesome-geek-podcasts)|  
